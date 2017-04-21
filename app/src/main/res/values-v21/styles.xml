@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Mytheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@android:color/holo_green_light</item>
+        <item name="colorPrimary">@android:color/holo_green_dark</item>
+    </style>
+
+    <style name="newtheme" parent="android:Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:statusBarColor">@android:color/holo_orange_light</item>
+    </style>
+</resources>
